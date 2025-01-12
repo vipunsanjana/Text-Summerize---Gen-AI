@@ -1,0 +1,9 @@
+transformers>=4.36.0
+diffusers>0.25.0
+ctransformers[cuda]>=0.2.24
+pillow>=9.3.0
+gradio
+streamlit>=1.29.0
+accelerate>=0.25.0
+pypdf
+peft>=0.6.0
