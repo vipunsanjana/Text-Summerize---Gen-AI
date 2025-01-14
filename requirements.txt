@@ -7,3 +7,4 @@ streamlit>=1.29.0
 accelerate>=0.25.0
 pypdf
 peft>=0.6.0
+youtube-transcript-api>=0.4.1
